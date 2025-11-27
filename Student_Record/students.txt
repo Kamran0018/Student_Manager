@@ -1,0 +1,2 @@
+inam,12303473,btech,9.0
+kamran,12310725,btech,8.0
